@@ -5,7 +5,7 @@ LogoPly is a static landing page for a startup company. It's implemented using H
 ## Technologies Used
 
 - HTML
-- JavaScript
+- TypeScript
 - Tailwind CSS
 - react js
 
